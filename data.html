@@ -7,10 +7,11 @@
     <title>某管理系统</title>
     <style>
         .sl{
-            margin-top: 3.5rem;
             width: 12rem;
             background: #283643;
-            height: 41.5rem;
+            position: fixed;
+            top: 3.5rem;
+            bottom: 0;
         }
         .hv:hover{
             background: #3c4248;
@@ -31,6 +32,12 @@
         }
         .kuan{
           width: 551px;
+        }
+        .k{
+          position: fixed;
+          top: 0;
+          left: 12rem;
+          right: 0;
         }
     </style>
   </head>
@@ -79,12 +86,12 @@
                                 </li>
                             </ul>
                         </div>
-                        <main class="d-inline-block col-lg-8">
-                            <nav class="navbar navbar-light bg-mengdi shouye">
-                                <a class="navbar-brand ml-4" href="search.html">数据查询</a>
-                              </nav>
-                        </main>
-                        <div class="container-fluid">
+                        <div class="container-fluid col-lg-12 float-left k w-100">
+                          <main class="d-inline-block col-lg-8">
+                              <nav class="navbar navbar-light bg-mengdi shouye">
+                                  <a class="navbar-brand ml-4" href="data.html">数据面板</a>
+                                </nav>
+                          </main>
                           <div class="row">
                               <h6 class="border-bottom ml-5 mt-4 pb-2 col-lg-5" style="color: #6c757d">最新的10个用户</h6>
                               <h6 class="border-bottom ml-5 mt-4 pb-2 col-lg-5" style="color: #6c757d">最活跃的10个用户</h6>
