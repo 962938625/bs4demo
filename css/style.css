@@ -1,0 +1,91 @@
+
+        .sl{
+            width: 12rem;
+            background: #283643;
+            position: fixed;
+            top: 3.5rem;
+            bottom: 0;
+        }
+        .hv:hover{
+            background: #3c4248;
+        }
+        .tips{
+            background: orange;
+            border-radius: 40%;
+        }/* 
+        .shouye{
+          position: fixed;
+          top: 3.5rem;
+          right: 0;
+          left: 12rem;
+        } */
+        .bg-mengdi{
+            background: #e8e9e9;
+        }
+        .card{
+            margin: 14px;
+        }
+        .kuan{
+          width: 551px;
+        }
+        .k{
+          position: fixed;
+          top: 0;
+          left: 12rem;
+          right: 0;
+        }
+        .it{
+          margin-top: 90px;
+        }
+        .rr{
+          position: relative;
+          right:5px;
+        }
+        .rl{
+          position: relative;
+          left:25px;
+        }
+        .ss{
+          position: absolute;
+          top: -30px;
+          left: 22px;
+        }
+        .ks{
+          position: fixed;
+          top: 140px;
+          left: 12rem;
+          right: 0;
+        }
+        .md{
+          margin-top: 80px;
+        }
+        .bg{
+          position: relative;
+          left:40px;
+          top: 10px;
+        }
+        .mrr{
+          position: absolute;
+          right: 244px;
+          top: 220px;
+        }
+        .bg-mengdi{
+            background: #e8e9e9;
+        }
+        .kd{
+          position: fixed;
+          top: 80px;
+          left: 11.1rem;
+          right: 0;
+        }
+        .fy{
+          position: absolute;
+          right: 200px;
+          top: 210px;
+        }
+        .m1{
+          margin: 10px;
+        }
+        .mll-4{
+          margin-left: 45px;
+        }
